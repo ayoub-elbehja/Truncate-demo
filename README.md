@@ -1,6 +1,6 @@
 # Truncate-demo
 
-Cette application PHP permet de tronquer un texte HTML tout en conservant la structure des balises HTML.
+Cette application Symfony en PHP permet de tronquer un texte HTML tout en conservant la structure des balises HTML.
 
 ## Installation
 
